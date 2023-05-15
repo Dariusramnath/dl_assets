@@ -40,4 +40,4 @@ else:
 
 filename = "downloaded_image.png"
 
-dwnld_img(url, filename)
+dwnld_img(url, filename
